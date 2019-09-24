@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="enter_your_message">Enter your message</string>
+    <string name="open">Open</string>
+    <string name="textview">TextView</string>
+    <string name="enter_message">Enter message</string>
+    <string name="reply">Reply</string>
+    <string name="send">Send</string>
+</resources>
